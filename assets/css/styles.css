@@ -233,3 +233,19 @@ a:visited { color: #5A8B86; }
 
 /**/
 
+/*change-start*/
+
+
+
+.Dropdown>li{
+    color: white;
+    text-align: left; 
+    display: inline-block;
+    font-size: 20px;
+    margin: 0px 30px;
+    border: 5px solid none;
+    box-sizing: border-box;
+    cursor: pointer;
+    
+}
+
